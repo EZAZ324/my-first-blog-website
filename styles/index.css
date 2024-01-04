@@ -1,0 +1,25 @@
+header nav{
+    text-align: right;
+}
+header nav li{
+    display: inline;
+    font-size: 30px;
+    padding: 10px 40px;
+}
+header nav li a{
+    text-decoration: none;
+}
+#article1 section h3{
+    font-style: italic;
+}
+.about_saint_martin{
+    margin-top: 50px;
+}
+#footer{
+    height: 8vh;
+    background-color: #222222;
+    color: aliceblue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
